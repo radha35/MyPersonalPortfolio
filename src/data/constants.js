@@ -1,6 +1,7 @@
 export const Bio = {
   name: "Pankaj Shahare ",
   roles: [
+    "Software Engineer",
     "Full Stack Developer",
     "Programmer",
     
@@ -16,7 +17,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/pankaj-shahare-140a89239/",
   twitter: "https://x.com/PankajShahare18",
   insta: "https://www.instagram.com/pnkj_shahare/",
-  facebook: "",
+  github: "https://github.com/pnkjshahare/",
 };
 
 export const skills = [
