@@ -255,20 +255,20 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Notes",
+    title: "LiveCodeHub-Collaborative Code Editor",
     
     description:
-      "Notes is a simple andoid app where you can make your notes  in different categories like Maths, Science etc. `This is a simple note taking application where user can add ,edit and delete the notes. User .",
+      "LiveCodeHub is a real-time collaborative code editor featuring unique room generation, dynamic syntax highlighting, and intelligent auto-suggestions. It empowers users to seamlessly edit, save, and download files while enhancing teamwork through an integrated group chat for instant collaboration.",
     image:
-      "https://th.bing.com/th/id/OIP.hp197s6FqA7OfeRk6JSwWQHaD4?w=343&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "https://assets.wpdeveloper.com/2022/03/Best-Online-Code-Editor-To-Use-In-2022.png",
     tags: [
-      "Android Studio",
-      "Java",
-      "Firebase",
-      "API",
+      "React",
+      "Node",
+      "Express",
+      "Socket io",
     ],
-    category: "android app",
-    github: "",
+    category: "web app",
+    github: "https://github.com/pnkjshahare/LiveCodeHub",
     webapp: "",
   },
   
