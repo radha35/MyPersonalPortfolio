@@ -12,7 +12,7 @@ export const Bio = {
   leetcode:"https://leetcode.com/u/shahare_pnkj/",
   gfg:"https://www.geeksforgeeks.org/user/pankajsa6tmk/",
   resume:
-    "https://drive.google.com/file/d/1o57jYWBtb4n0xaUqbJe5owYaTiWr7v1V/view?usp=sharing",
+    "https://drive.google.com/file/d/1Fgd1XCt5cozqrIxIP54DhUUeqUascznw/view?usp=sharing",
 
   linkedin: "https://www.linkedin.com/in/pankaj-shahare-140a89239/",
   twitter: "https://x.com/PankajShahare18",
