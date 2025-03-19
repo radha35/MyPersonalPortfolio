@@ -56,7 +56,7 @@ const Wrapper = styled.div`
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
 function App() {
-  document.title="pankaj PortFolio"
+  document.title="Radha Portfolio"
   const [darkMode, setDarkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)

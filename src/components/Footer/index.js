@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Pankaj Shahare</Logo>
+        <Logo>Radha Chittalwar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -105,7 +105,7 @@ function Footer() {
 
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Pankaj Shahare. All rights reserved.
+          &copy; 2024 Radha Chittalwar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

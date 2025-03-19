@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Pankaj Shahare ",
+  name: "Radha Chittalwar ",
   roles: [
     "Software Engineer",
     "Full Stack Developer",
@@ -8,16 +8,16 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/pnkjshahare/",
-  leetcode:"https://leetcode.com/u/shahare_pnkj/",
-  gfg:"https://www.geeksforgeeks.org/user/pankajsa6tmk/",
+  github: "https://github.com/radha35",
+  leetcode:"https://leetcode.com/u/Radha_89/",
+  gfg:"https://www.geeksforgeeks.org/user/rchittawar31/",
   resume:
-    "https://drive.google.com/file/d/1Fgd1XCt5cozqrIxIP54DhUUeqUascznw/view?usp=sharing",
+    "https://drive.google.com/file/d/1APyEhIsPNsVzl6XxVHydEY5cjmYFwfGI/view?usp=sharing",
 
-  linkedin: "https://www.linkedin.com/in/pankaj-shahare-140a89239/",
-  twitter: "https://x.com/PankajShahare18",
-  insta: "https://www.instagram.com/pnkj_shahare/",
-  github: "https://github.com/pnkjshahare/",
+  linkedin: "https://www.linkedin.com/in/radha-chittalwar-589048243/",
+  //twitter: "https://x.com/PankajShahare18",
+  //insta: "https://www.instagram.com/pnkj_shahare/",
+  github: "https://github.com/radha35",
 };
 
 export const skills = [
@@ -77,11 +77,11 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
      
-      {
-        name: "Django",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFFyY16N5NRhzoG24RqB7x8Ok2t8Bdgs-tuMsOBXS2Q&s",
-      },
+      // {
+      //   name: "Django",
+      //   image:
+      //     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFFyY16N5NRhzoG24RqB7x8Ok2t8Bdgs-tuMsOBXS2Q&s",
+      // },
       {
         name: "MySQL",
         image:
@@ -93,10 +93,10 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      },
+      // {
+      //   name: "Firebase",
+      //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      // },
     ],
   },
   {
@@ -107,16 +107,16 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
-      {
-        name: "Tenserflow",
-        image:
-          "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
-      },
-      {
-        name: "Keras",
-        image:
-          "https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png",
-      },
+      // {
+      //   name: "Tenserflow",
+      //   image:
+      //     "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
+      // },
+      // {
+      //   name: "Keras",
+      //   image:
+      //     "https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png",
+      // },
       {
         name: "Jupyter",
         image:
@@ -125,7 +125,8 @@ export const skills = [
       {
         name: "Google Colab",
         image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+          // "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg",
       },
       {
         name: "Sk Learn Kit",
@@ -150,7 +151,8 @@ export const skills = [
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          // "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg",
       },
       {
         name: "VS Code",
@@ -166,39 +168,34 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D560BAQH5YHtpxAHvDA/company-logo_200_200/0/1694512590827/numetry_technologies_logo?e=1714608000&v=beta&t=oNrYDy6pg4YFAyNwiCOYZ1-E0DsVJjL6xQjsKAy5v9s",
-    role: "Full Stack Inter Intern",
-    company: "Numetry Technologies",
-    date: "Jan 2024 - Present",
-    desc: "Working on developing Web apps, Collaborating with the team to perform various Frontend Tasks, Engineering Tasks,POC Tasks",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQF-jLf4vWUx9g/company-logo_200_200/company-logo_200_200/0/1699514201876/ineuron_ai_logo?e=2147483647&v=beta&t=JtlAVwYyVF7HYTP54DK1VdQD0C5czlXz8eh7bKYJ8ks",
+    role: "Machine Learning Intern",
+    company: "Ineuron",
+    date: "Jan 2024 ",
+    desc: "Learned and Implemented Decision Tree Algorithm, Flask backend and Machine learning concepts. The internship experience underscored adaptability, problem-solving abilities, and a collaborative approach in a team-oriented environment.",
     skills: [
-      "ReactJS",
-      "NodeJs",
-      "ExpresJs",
-      "MongoDb",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
+      "Machine Leraning",
+      "Flask",
+      "Algorithms",
     ],
     
   },
-  {
-    id: 1,
-    img: "https://th.bing.com/th/id/OIP._d8Yk6qvzumYJAzyiZV8DQAAAA?w=175&h=176&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-    role: "Front End Intern ",
-    company: "Raise Digital",
-    date: "Mar 2022 - May 2022",
-    desc: "The aim was to design various component of Job Portal Website which will send automatic mails to the selected for and in interview based on resume score and the performance in the interview.",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Django",
-      "Material UI",
-    ],
-    doc: "",
-  },
+  // {
+  //   id: 1,
+  //   img: "https://th.bing.com/th/id/OIP._d8Yk6qvzumYJAzyiZV8DQAAAA?w=175&h=176&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+  //   role: "Front End Intern ",
+  //   company: "Raise Digital",
+  //   date: "Mar 2022 - May 2022",
+  //   desc: "The aim was to design various component of Job Portal Website which will send automatic mails to the selected for and in interview based on resume score and the performance in the interview.",
+  //   skills: [
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
+  //     "Django",
+  //     "Material UI",
+  //   ],
+  //   doc: "",
+  // },
   
 ];
 
@@ -208,26 +205,26 @@ export const education = [
     img: "https://th.bing.com/th/id/OIP.4GQ5pRmUI4cxkEXsqMfUhgHaHa?w=165&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     school: "Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET), Nanded, Maharastra",
     date: "Dec 2021 - May 2025",
-    grade: "8.43 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Information Technology at Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET), Nanded, Maharastra. I have completed 7 semesters and have a CGPA of 8.43. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Technology - B.Tech, Information Technology",
+    grade: "7.21 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Electronics and Telecommunications Engineering at Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET), Nanded, Maharastra. I have completed 7 semesters and have a CGPA of 7.21. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    degree: "Bachelor of Technology - B.Tech, Electronics and Telecommunication Engineering",
   },
   {
     id: 1,
     img: "https://indsarkarijob.com/wp-content/uploads/2024/05/mahalogo.png",
-    school: "Sudama Junior College Mohadi Bhandara, Maharastra",
+    school: " Smt. Nusabai Chopane Uchcha Madhyamik Vidyalaya , Wani, Maharashtra",
     date: "Apr 2019 - Apr 2020",
-    grade: "76.9%",
-    desc: "I completed my class 12 high school education at Sudama Junior College Moahdi Bhandara, Maharastra, where I studied Science.",
+    grade: "61.08%",
+    desc: "I completed my class 12 high school education at Smt. Nusabai Chopane Uchcha Madhyamik Vidyalaya, Maharastra, where I studied Science.",
     degree: " HSC(XII), Science",
   },
   {
     id: 2,
     img: "https://indsarkarijob.com/wp-content/uploads/2024/05/mahalogo.png",
-    school: "Sulochana Devi Paradhi Vidyalay Mohadi Bhandara, Mahrastra",
+    school: "Vivekanand High School Wani, Mahrashtra",
     date: "June 2017 - March 2018",
-    grade: "91.2%",
-    desc: "I completed my class 10 education at Sulochana Devi Paradhi Vidyalay Mohadi Bhandara, Mahrastra, where I studied Science with Computer Application.",
+    grade: "81.60%",
+    desc: "I completed my class 10 education at Vivekanand High School Wani, Mahrashtra.",
     degree: "SSC(X),MH Board",
   },
 ];
@@ -235,96 +232,95 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "Real Estate Marketplace",
+    title: "IMDB-Clone-APP",
     
     description:
-      "A responsive real estate website where users can search for rental or for-sale flats, view prices, and explore detailed listings including available accessories and amenities. It offers a seamless platform to connect buyers, sellers, and renters.",
+      "A IMDB clone created on React App. This React project will provide us the list of upcoming, popular & top rated movies. On clicking on any movie it will show us the detail page of the movie. This React app also have a caraousel at the top for displaying movies as hero banner.",
     image:
-      "https://aihubprojects.com/wp-content/uploads/2019/10/image-18.png",
+      "https://s3-alpha.figma.com/hub/file/4711603543/c35e3e9b-7203-4f50-9425-c850336a2e7b-cover.png",
     tags: [
-      "HTML",
-      "CSS",
-      "JS",
-      "Expressjs",
-      "mangoDB"
+      // "HTML",
+      // "CSS",
+      // "JS",
+      // "Expressjs",
+      "React js",
       ,
     ],
     category: "web app",
-    github: "https://github.com/pnkjshahare/RealEstate-marketPlace",
+    github: "https://github.com/radha35/IMDB-clone-React-app",
     webapp: "",
   },
   {
     id: 9,
-    title: "LiveCodeHub-Collaborative Code Editor",
+    title: "Crop Recommendation System",
     
     description:
-      "LiveCodeHub is a real-time collaborative code editor featuring unique room generation, dynamic syntax highlighting, and intelligent auto-suggestions. It empowers users to seamlessly edit, save, and download files while enhancing teamwork through an integrated group chat for instant collaboration.",
+      "In the realm of agriculture, where traditional knowledge meets cutting-edge technology, the Crop Recommendation System is revolutionizing how farmers choose crops. By taking into account the mineral composition of the soil, including potassium, nitrogen, and phosphorous, as well as factors like humidity, temperature, and rainfall, this data-driven project is empowering farmers with precise recommendations.",
     image:
-      "https://assets.wpdeveloper.com/2022/03/Best-Online-Code-Editor-To-Use-In-2022.png",
+      //"https://assets.wpdeveloper.com/2022/03/Best-Online-Code-Editor-To-Use-In-2022.png",
+      "https://images.unsplash.com/photo-1560493676-04071c5f467b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80",
     tags: [
-      "React",
-      "Node",
-      "Express",
-      "Socket io",
+      "Python",
+      "Machine Learning",
     ],
-    category: "web app",
-    github: "https://github.com/pnkjshahare/LiveCodeHub",
+    category: "machine learning",
+    github: "https://github.com/radha35/-Crop-recommendation-system",
     webapp: "",
   },
   
   
   {
     id: 2,
-    title: "Concrete Strength Prediction",
+    title: " Poshan Tracker",
    
     description:
-      "Concrete Strength Prediction uses machine learning models to estimate the compressive strength of concrete based on input features like cement content, water-cement ratio, and curing time, aiding in efficient construction planning and quality control.",
+      "The platform built for the Anganwadi workers and the Ministry of Child and Welfare where the data of beneficiaries get analyzed for future purposes and predictions.",
     image:
-      "https://media.gettyimages.com/id/941748918/photo/concrete-pouring-at-construction-site.jpg?s=612x612&w=0&k=20&c=gjrm52VyXqSLL8gBfzDN0RlMPV1foAzU2BLQcvEi8wc=",
-    tags: ["Python", "Keras", "TensorFlow", "Regression Algo" ],
-    category: "machine learning",
-    github: "https://github.com/pnkjshahare/ConcreateStrength-Prediction/tree/main",
-    webapp: "https://github.com/pnkjshahare/ConcreateStrength-Prediction/tree/main",
-    member: [
-      {
-        name: "",
-        img: "",
-        linkedin: "",
-        github: "https://github.com/pnkjshahare/ConcreateStrength-Prediction/tree/main",
-      },
+      "https://www.poshantracker.in/images/NewHomepage/poshan_universe.svg",
+    tags: ["HTML", "Css", "Bootstrap", "MySQL","Node js","Express js" ],
+    category: "DBMS",
+    github: "https://github.com/radha35/Poshan-Tracker",
+    //webapp: "https://github.com/pnkjshahare/ConcreateStrength-Prediction/tree/main",
+    //member: [
+      // {
+      //   name: "",
+      //   img: "",
+      //   linkedin: "",
+      //   github: "https://github.com/radha35/Poshan-Tracker",
+      // },
      
-    ],
+    //],
   },
   
   
   
   {
     id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
+    title: "Online-Food-Order-Prediction",
+    //date: "Jun 2021",
     description:
-      " A Todo Web App made with React JS, Vite, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      " Online Food Order Prediction System predict whether a customer will order food online again or not. The food order prediction system is one of the useful techniques food delivery companies can use to make the entire delivery process fast.",
     image:
-      "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/09/a-phone-with-a-to-do-list-next-to-a-notebook-with-a-handwritten-to-do-list-a-pen-and-some-sticky-notes-around.jpg",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/pnkjshahare/ToDo-List",
-    webapp: "https://to-do-list-4eq38a8pp-pankaj-shahares-projects.vercel.app/",
+      "https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2022/06/Online-Food-Order-Prediction-with-Machine-Learning.png?fit=1920%2C1080&ssl=1",
+    tags: ["Python", "Machine Learning", "Classification Algo"],
+    category: "machine learning",
+    github: "https://github.com/radha35/Online-Food-Order-Prediction-with-Machine-Learning",
+    //webapp: "https://to-do-list-4eq38a8pp-pankaj-shahares-projects.vercel.app/",
   },
  
   
   {
     id: 8,
-    title: "Apple Quality Classification",
-    date: "March 2023",
+    title: "Diwali Sales Analysis",
+    //date: "March 2023",
     description:
-      "Apple Quality Classification uses machine learning to evaluate the quality of apples based on features like color, texture, size, and defects, leveraging image processing and classification algorithms to ensure accurate grading for agricultural or retail purposes.",
+      "Diwali Sales Analysis using Python and Pandas I worked on a practical project focusing on a Diwali sales dataset. This project taught me how to use Python and Pandas for data analysis. The objective of this project is: 1. Improve customer experienece by analyzing data 2. Increase revenue",
     image:
-      "https://cdn.pixabay.com/photo/2020/10/01/20/02/apples-5619618_1280.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "OpenCV", "PyTorch","Classification Algo"],
+      "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1697366168/catalog/1713500483892469760/a6isjbnsbhdbyxyyidvm.jpg",
+    tags: ["Python", "Pandas", "Machine Leraning"],
     category: "machine learning",
-    github: "https://github.com/pnkjshahare/Apple-Quality-Classification",
-    webapp: "https://github.com/pnkjshahare/Apple-Quality-Classification",
+    github: "https://github.com/radha35/Diwali-Sales-Analysis-using-Python-and-Pandas",
+    //webapp: "https://github.com/pnkjshahare/Apple-Quality-Classification",
   },
 ];
 
